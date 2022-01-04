@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - CSS
 - JS
 - PYTHON
+- JAVA
+- C++
+- C#
+- R
+- DART
 
 
 💬 Ask me about:
