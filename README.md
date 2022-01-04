@@ -1,4 +1,4 @@
-### Hi there, I'm Akul Goel 👋
+### Hi there, I'm Akul Goel (aka Akul2010) 👋
 
 <!--
 **Akul2010/Akul2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
