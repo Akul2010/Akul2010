@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <center>
 ### 💡 I know:
-CODING LANGUAGES:
+
+ CODING LANGUAGES:
 - HTML
 - CSS
 - JS
