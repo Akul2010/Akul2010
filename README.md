@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - PYTHON
 
 
+💬 Ask me about:
+- Any errors in any of my projects
+
 📫 How to reach me:
 - gmail: akulgoel2010@gmail.com
 
