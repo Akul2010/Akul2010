@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<center>
+	<img title="Banner" src="./images/banner.png"/>
+</center>
+
+
+
 🌱 I’m currently learning:
 - HTML
 - CSS
