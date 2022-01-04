@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - C#
 - R
 - DART
+- GERMAN
+- HINDI
 
 
 💬 Ask me about:
