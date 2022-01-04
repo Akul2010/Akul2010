@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 - gmail: akulgoel2010@gmail.com
+- dailydev: @DevGuy
 
 <a href="https://app.daily.dev/DevGuy"><img src="https://github.com/Akul2010/Akul2010/blob/master/devcard.svg" width="400" alt="Akul Goel's Dev Card"/></a>
