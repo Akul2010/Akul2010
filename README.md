@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently learning:
+### 🌱 I’m currently learning:
+CODING LANGUAGES:
 - HTML
 - CSS
 - JS
@@ -27,14 +28,15 @@ Here are some ideas to get you started:
 - C#
 - R
 - DART
+LANGUAGES:
 - GERMAN
 - HINDI
 
 
-💬 Ask me about:
+### 💬 Ask me about:
 - Any errors in any of my projects
 
-📫 How to reach me:
+### 📫 How to reach me:
 - gmail: akulgoel2010@gmail.com
 - dailydev: @DevGuy (Check my card below)
 - github: Akul2010
