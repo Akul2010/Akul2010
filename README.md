@@ -1,4 +1,4 @@
-### Hi there 👋
+### Akul Goel 👋
 
 <!--
 **Akul2010/Akul2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<center>
-	<img title="Banner" src="./images/banner.png"/>
-</center>
-
-
 
 🌱 I’m currently learning:
 - HTML
