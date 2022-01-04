@@ -28,7 +28,7 @@ CODING LANGUAGES:
 - C#
 - R
 - DART
-  <br>
+  
 LANGUAGES:
 - GERMAN
 - HINDI
