@@ -16,13 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <center>
-
-### 🌱 I’m currently learning:
+### 💡 I know:
 CODING LANGUAGES:
 - HTML
 - CSS
 - JS
 - PYTHON
+ 
+LANGUAGES:
+- ENGLISH
+- SPANISH (not a lot)
+
+### 🌱 I’m currently learning:
+CODING LANGUAGES:
 - JAVA
 - C++
 - C#
