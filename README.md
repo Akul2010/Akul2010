@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🔭 I’m currently working on:
+
+PROGRAMMING-RELATED:
+- A voice assistant in python
+- A command-line survival game in python
+- A screen recorder in python
+- A password manager in Flutter and HTML
+
+
 ### 💡 I know:
 
  CODING LANGUAGES:
