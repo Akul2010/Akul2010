@@ -18,10 +18,17 @@ Here are some ideas to get you started:
 ### 💡 I know:
 
  CODING LANGUAGES:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">HTML5
+- HTML5
 - CSS3
 - JS
 - PYTHON
+ 
+FRAMEWORKS:
+- NODE.JS
+- FLUTTER
+- YARN
+- NPM
+- SOCKET.IO
  
 LANGUAGES:
 - ENGLISH
@@ -34,7 +41,7 @@ CODING LANGUAGES:
 - C#
 - R
 - DART
-  
+
 LANGUAGES:
 - GERMAN
 - HINDI
