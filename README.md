@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  CODING LANGUAGES:
 - HTML5
 - CSS3
-- JS
+- JAVASCRIPT
 - PYTHON
  
 FRAMEWORKS:
@@ -29,6 +29,7 @@ FRAMEWORKS:
 - YARN
 - NPM
 - SOCKET.IO
+- REACT
  
 LANGUAGES:
 - ENGLISH
@@ -41,6 +42,7 @@ CODING LANGUAGES:
 - C#
 - R
 - DART
+- TYPESCRIPT
 
 LANGUAGES:
 - GERMAN
