@@ -55,5 +55,5 @@ LANGUAGES:
 - DailyDev: @DevGuy (Check my card below)
 - GitHub: Akul2010
 
-<a href="https://app.daily.dev/DevGuy" target="_blank"><img src="https://github.com/Akul2010/Akul2010/blob/master/devcard.svg" width="400" alt="Akul Goel's Dev Card"/></a>
+<a href="https://app.daily.dev/DevGuy"><img src="https://github.com/Akul2010/Akul2010/blob/master/devcard.svg" width="400" alt="Akul Goel's Dev Card"/></a>
 
