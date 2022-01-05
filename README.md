@@ -44,9 +44,9 @@ LANGUAGES:
 - Any errors in any of my projects
 
 ### 📫 How to reach me:
-- gmail: akulgoel2010@gmail.com
-- dailydev: @DevGuy (Check my card below)
-- github: Akul2010
+- GMail: akulgoel2010@gmail.com
+- DailyDev: @DevGuy (Check my card below)
+- GitHub: Akul2010
 
 <a href="https://app.daily.dev/DevGuy"><img src="https://github.com/Akul2010/Akul2010/blob/master/devcard.svg" width="400" alt="Akul Goel's Dev Card"/></a>
 
