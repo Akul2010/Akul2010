@@ -51,7 +51,7 @@ LANGUAGES:
 - Any errors in any of my projects
 
 ### 📫 How to reach me:
-- GMail: akulgoel2010@gmail.com
+- Gmail: akulgoel2010@gmail.com
 - DailyDev: @DevGuy (Check my card below)
 - GitHub: Akul2010
 
