@@ -25,7 +25,7 @@ PROGRAMMING-RELATED:
 - A password manager in HTML
 - A password manager in python
 - A password manager in React
-
+(You can see how badly I want to make it.)
 
 ### 💡 I know:
 
