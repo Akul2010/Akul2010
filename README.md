@@ -21,7 +21,10 @@ PROGRAMMING-RELATED:
 - A voice assistant in python
 - A command-line survival game in python
 - A screen recorder in python
-- A password manager in Flutter and HTML
+- A password manager in Flutter
+- A password manager in HTML
+- A password manager in python
+- A password manager in React
 
 
 ### 💡 I know:
