@@ -12,8 +12,8 @@
         </pattern>
         <image id="image-8" width="512" height="512" xlink:href="data:image/png;base64,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"></image>
         <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-9">
-            <stop stop-color="#AD6648" offset="0%"></stop>
-            <stop stop-color="#FF8E3B" offset="100%"></stop>
+            <stop stop-color="#ffffff" offset="0%"></stop>
+            <stop stop-color="#DBE1ED" offset="100%"></stop>
         </linearGradient>
         <radialGradient cx="77.6966206%" cy="27.7857039%" fx="77.6966206%" fy="27.7857039%" r="103.840965%" gradientTransform="translate(0.776966,0.277857),scale(1.000000,0.855914),rotate(120.029938),translate(-0.776966,-0.277857)" id="radialGradient-10">
             <stop stop-color="#0E1217" stop-opacity="0" offset="0%"></stop>
@@ -27,8 +27,8 @@
         <path d="M17.92,0 L46.08,0 C55.9769427,0 64,8.02305728 64,17.92 L64,46.08 C64,55.9769427 55.9769427,64 46.08,64 L17.92,64 C8.02305728,64 0,55.9769427 0,46.08 L0,17.92 C0,8.02305728 8.02305728,0 17.92,0 Z" id="path-17"></path>
         <path d="M17.92,0 L46.08,0 C55.9769427,0 64,8.02305728 64,17.92 L64,46.08 C64,55.9769427 55.9769427,64 46.08,64 L17.92,64 C8.02305728,64 0,55.9769427 0,46.08 L0,17.92 C0,8.02305728 8.02305728,0 17.92,0 Z" id="path-19"></path>
         <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-21">
-            <stop stop-color="#AD6648" offset="0%"></stop>
-            <stop stop-color="#FF8E3B" offset="100%"></stop>
+            <stop stop-color="#ffffff" offset="0%"></stop>
+            <stop stop-color="#DBE1ED" offset="100%"></stop>
         </linearGradient>
         <filter color-interpolation-filters="auto" id="filter-22">
             <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
@@ -92,12 +92,12 @@
                 <tspan x="0" y="22">Webdev</tspan>
               </text>
               <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">181</tspan>
+                <tspan x="336" y="43">182</tspan>
               </text>
             </g>,<g transform="translate(0.000000, 66)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="72.48618784530387" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="72.08791208791209" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                 <tspan x="0" y="22">React</tspan>
@@ -108,7 +108,7 @@
             </g>,<g transform="translate(0.000000, 132)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="60.110497237569064" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="59.78021978021978" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                 <tspan x="0" y="22">Javascript</tspan>
@@ -119,7 +119,7 @@
             </g>,<g transform="translate(0.000000, 198)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="40.66298342541437" height="4" rx="2"></rect>
+                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="40.43956043956044" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                 <tspan x="0" y="22">CSS</tspan>
@@ -131,7 +131,7 @@
                     </g>
                     <g id="total" transform="translate(-0.000000, 0.000000)">
                         <text id="219" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="80" font-weight="bold" line-spacing="86" fill="#FFFFFF">
-                            <tspan x="0" y="74">243</tspan>
+                            <tspan x="0" y="74">244</tspan>
                         </text>
                         <text id="Articles-read" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="32" font-weight="normal" line-spacing="38" fill="#FFFFFF">
                             <tspan x="0" y="116">Articles read</tspan>
@@ -150,9 +150,9 @@
                     <g id="rank-group">
                         <circle id="border" stroke="#525866" stroke-width="2" fill="#0E1217" cx="80" cy="80" r="81"></circle>
                         <g id="rank" transform="translate(12.000000, 12.000000)">
-                            <path d="M32.4432469,55.4924056 L64.8864939,46.2229065 C66.9214495,45.6414906 69.0785505,45.6414906 71.1135061,46.2229065 L103.556753,55.4924056 C105.989462,56.1874653 107.666667,58.410986 107.666667,60.9410413 L107.666667,86.9104317 C107.666667,88.4752385 106.39814,89.743765 104.833333,89.743765 C104.57007,89.743765 104.308091,89.7070736 104.054957,89.6347496 L71.1135061,80.2229065 C69.0785505,79.6414906 66.9214495,79.6414906 64.8864939,80.2229065 L31.9450432,89.6347496 C30.440444,90.064635 28.8722343,89.1934074 28.4423488,87.6888082 C28.3700248,87.4356741 28.3333333,87.1736952 28.3333333,86.9104317 L28.3333333,60.9410413 C28.3333333,58.410986 30.0105381,56.1874653 32.4432469,55.4924056 Z" id="Rank" fill="url(#linearGradient-21)"></path>
-                            <path d="M32.4432469,55.4924056 L64.8864939,46.2229065 C66.9214495,45.6414906 69.0785505,45.6414906 71.1135061,46.2229065 L103.556753,55.4924056 C105.989462,56.1874653 107.666667,58.410986 107.666667,60.9410413 L107.666667,73.6666667 L68,62.3333333 L28.3333333,73.6666667 L28.3333333,60.9410413 C28.3333333,58.410986 30.0105381,56.1874653 32.4432469,55.4924056 Z" id="Light" fill-opacity="0.2" fill="#F5F8FC"></path>
-                            <path d="M68,45.7868446 L68,79.7868446 C66.9519859,79.7868446 65.9039717,79.9321986 64.8864939,80.2229065 L31.9450432,89.6347496 C30.440444,90.064635 28.8722343,89.1934074 28.4423488,87.6888082 C28.3700248,87.4356741 28.3333333,87.1736952 28.3333333,86.9104317 L28.3333333,60.9410413 C28.3333333,58.410986 30.0105381,56.1874653 32.4432469,55.4924056 L64.8864939,46.2229065 C65.9039717,45.9321986 66.9519859,45.7868446 68,45.7868446 Z" id="Shine" fill-opacity="0.2" fill="#F5F8FC"></path>
+                            <path d="M71.1135061,68.8895732 L103.556753,78.1590723 C105.989462,78.854132 107.666667,81.0776526 107.666667,83.607708 L107.666667,103.910432 C107.666667,105.475239 106.39814,106.743765 104.833333,106.743765 C104.57007,106.743765 104.308091,106.707074 104.054957,106.63475 L71.1135061,97.2229065 C69.0785505,96.6414906 66.9214495,96.6414906 64.8864939,97.2229065 L31.9450432,106.63475 C30.440444,107.064635 28.8722343,106.193407 28.4423488,104.688808 C28.3700248,104.435674 28.3333333,104.173695 28.3333333,103.910432 L28.3333333,83.607708 C28.3333333,81.0776526 30.0105381,78.854132 32.4432469,78.1590723 L64.8864939,68.8895732 C66.9214495,68.3081573 69.0785505,68.3081573 71.1135061,68.8895732 Z M71.1135061,29.2229065 L103.556753,38.4924056 C105.989462,39.1874653 107.666667,41.410986 107.666667,43.9410413 L107.666667,64.243765 C107.666667,65.8085718 106.39814,67.0770984 104.833333,67.0770984 C104.57007,67.0770984 104.308091,67.0404069 104.054957,66.9680829 L71.1135061,57.5562398 C69.0785505,56.9748239 66.9214495,56.9748239 64.8864939,57.5562398 L31.9450432,66.9680829 C30.440444,67.3979684 28.8722343,66.5267408 28.4423488,65.0221416 C28.3700248,64.7690074 28.3333333,64.5070285 28.3333333,64.243765 L28.3333333,43.9410413 C28.3333333,41.410986 30.0105381,39.1874653 32.4432469,38.4924056 L64.8864939,29.2229065 C66.9214495,28.6414906 69.0785505,28.6414906 71.1135061,29.2229065 Z" id="Rank" fill="url(#linearGradient-21)"></path>
+                            <path d="M71.1135061,68.8895732 L103.556753,78.1590723 C105.989462,78.854132 107.666667,81.0776526 107.666667,83.607708 L107.666667,93.5 L68,82.1666667 L28.3333333,93.5 L28.3333333,83.607708 C28.3333333,81.0776526 30.0105381,78.854132 32.4432469,78.1590723 L64.8864939,68.8895732 C66.9214495,68.3081573 69.0785505,68.3081573 71.1135061,68.8895732 Z M71.1135061,29.2229065 L103.556753,38.4924056 C105.989462,39.1874653 107.666667,41.410986 107.666667,43.9410413 L107.666667,53.8333333 L68,42.5 L28.3333333,53.8333333 L28.3333333,43.9410413 C28.3333333,41.410986 30.0105381,39.1874653 32.4432469,38.4924056 L64.8864939,29.2229065 C66.9214495,28.6414906 69.0785505,28.6414906 71.1135061,29.2229065 Z" id="Light" fill-opacity="0.2" fill="#F5F8FC"></path>
+                            <path d="M68,68.4535112 L68,96.7868446 C66.9519859,96.7868446 65.9039717,96.9321986 64.8864939,97.2229065 L31.9450432,106.63475 C30.440444,107.064635 28.8722343,106.193407 28.4423488,104.688808 C28.3700248,104.435674 28.3333333,104.173695 28.3333333,103.910432 L28.3333333,83.607708 C28.3333333,81.0776526 30.0105381,78.854132 32.4432469,78.1590723 L64.9966667,68.8558446 L65.9130195,68.6473166 C66.6026478,68.518113 67.3013239,68.4535112 68,68.4535112 Z M68,28.7868446 L68,57.1201779 C66.9519859,57.1201779 65.9039717,57.2655319 64.8864939,57.5562398 L31.9450432,66.9680829 C30.440444,67.3979684 28.8722343,66.5267408 28.4423488,65.0221416 C28.3700248,64.7690074 28.3333333,64.5070285 28.3333333,64.243765 L28.3333333,43.9410413 C28.3333333,41.410986 30.0105381,39.1874653 32.4432469,38.4924056 L64.9966667,29.1891779 L65.9130195,28.9806499 C66.6026478,28.8514463 67.3013239,28.7868446 68,28.7868446 Z" id="Shine" fill-opacity="0.2" fill="#F5F8FC"></path>
                         </g>
                     </g>
                 </g>
