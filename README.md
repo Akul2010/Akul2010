@@ -63,6 +63,7 @@ LANGUAGES:
 
 ### 💬 Ask me about:
 - Any errors in any of my projects
+- Any errors in your projects (I ma not always be able to help)
 
 ### 📫 How to reach me:
 - Gmail: akulgoel2010@gmail.com
