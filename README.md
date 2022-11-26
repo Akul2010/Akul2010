@@ -61,10 +61,11 @@ LANGUAGES:
 
 ### 🤔 I’m looking for help with:
 - Using databases in Flutter
+- Working on my new voice assistant at the AkulAI organization(https://github.com/Akul-AI).
 
 ### 💬 Ask me about:
 - Any errors in any of my projects
-- Any errors in your projects (I ma not always be able to help)
+- Any errors in your projects (I may not always be able to help)
 
 ### 📫 How to reach me:
 - Gmail: akulgoel2010@gmail.com
