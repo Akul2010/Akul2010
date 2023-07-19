@@ -22,7 +22,6 @@ PROGRAMMING-RELATED:
 - A command-line survival game in python
 - A screen recorder in python
 - A password manager in Flutter
-- A password manager in Python
 
 ### 💡 I know:
 
@@ -30,7 +29,10 @@ PROGRAMMING-RELATED:
 - HTML5
 - CSS3
 - JAVASCRIPT
-- PYTHON 
+- PYTHON
+- C#
+- C
+- TYPESCRIPT
 
 FRAMEWORKS:
 - NODE.JS
@@ -43,25 +45,21 @@ FRAMEWORKS:
 LANGUAGES:
 - ENGLISH
 - SPANISH (not a lot)
+- HINDI
 
 ### 🌱 I’m currently learning:
 CODING LANGUAGES:
 - JAVA
 - C++
-- C#
 - R
 - DART
-- TYPESCRIPT
 - VISUAL BASIC
-- F#
 
 LANGUAGES:
 - GERMAN
-- HINDI
 
 ### 🤔 I’m looking for help with:
-- Using databases in Flutter
-- Working on my new voice assistant at the AkulAI organization(https://github.com/Akul-AI).
+- Working on my new voice assistant at the AkulAI organization (https://github.com/Akul-AI).
 
 ### 💬 Ask me about:
 - Any errors in any of my projects
